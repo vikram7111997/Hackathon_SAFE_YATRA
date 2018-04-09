@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:fillViewport="true"
+    android:layout_weight="1">
+<RelativeLayout android:id="@+id/RelativeLayout01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/emergency"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EMERGENCY"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/circle"
+        android:layout_marginTop="30dp"/>
+   <ImageButton
+       android:id="@+id/ImageButton"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:src="@drawable/phonr"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="200dp"
+       />
+    <Button
+        android:id="@+id/help"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="HELP"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:background="#ffff00"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="550dp"/>
+    <Button
+        android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="#00d9ff"
+        android:text="ABOUT"
+        android:textStyle="bold"
+        android:layout_marginTop="650dp"
+        android:layout_marginBottom="30dp"
+
+        />
+
+    <ImageButton
+        android:id="@+id/xyz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:src="@drawable/abc" />
+</RelativeLayout>
+</ScrollView>
+
+
+

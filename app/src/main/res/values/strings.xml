@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SAFE_YATRA</string>
+    <string name="emergency">THIS IS UNDER DEVELOPMENT \n\nOn clicking this button,Location of passenger is shared with the nearest GRP.Also at the same time,digital FIR is created with the help of details of the passenger being autofilled from our database,that were already given by him/her at the time of registration when the app was intalled and opened for the very first time. </string>
+    <string name="call">THIS IS UNDER DEVELOPMENT \n\nOn clicking this button,user will be redirected to dialer pad and call will be connected to GRP via 182(TOLL-FREE HELPLINE NO.)</string>
+    <string name="help1">EMERGENCY</string>
+    <string name="help12">Here,Location of passenger is shared with the nearest GRP.Also at the same time,digital FIR is created with the help of details of the passenger being autofilled from our database,that were already given by him/her at the time of registration when the app was intalled and opened for the very first time.</string>
+    <string name="help2">CALL ON 182</string>
+    <string name="help22">Here,user will be redirected to dialer pad and call will be connected to GRP via 182(TOLL-FREE HELPLINE NO.)</string>
+    <string name="help3">VOICE MESSAGE</string>
+    <string name="help32">Here,user can record his/her voice message describing the incident of crime instead of typing it as a text message(which is more time consuming)and it will be sent directly to the GRP and stored in a buffer system.</string>
+    <string name="about">Smart India Hackhaton 2018 is a government level competition where students from around our country provide digital solutions to problems faced by us in day to day life.\nOur app is a digital solution to one of the problem statement mentioned in the railway ministry.\nIt is about providing security to passengers travelling via railways. </string>
+    <string name="about1">The Digital India programme is a flagship programme of the Government of India launched by our honourable PM Modi with a vision to transform India into a digitally empowered society and knowledge economy.\nOur app provides a digital way of securing passengers travelling in railways.It connects the passengers to GRP digitally.So our app promotes the "Digital India" mission by providing a digital solution. </string>
+    <string name="audio">On clicking this button,user can record his/her voice message describing the incident of crime instead of typing it as a text message(which is more time consuming)and it will be sent directly to the GRP and stored in a buffer system.  </string>
+</resources>
